@@ -21,5 +21,5 @@ Imagine yourself as Peter Pandey and perform the following task:
 ---
 You can download the Power BI report from this repository to view detailed visualizations and insights.
 Please note that to view the Power BI report, you need to have Power BI Desktop installed.
-Alternatively, you can access the live version of the Power BI report [here](https://www.novypro.com/project/atliqo-telecom-analysis-1).
+Alternatively, you can access the live version of the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiNDVjZjJiMTgtODFhMy00YzZkLTljM2EtZmQwYzVlOTRhM2I4IiwidCI6IjRiZmUwOWI2LTE3NTgtNDkyNi1hNDMwLTJiMjMxOWMwZmNiMSIsImMiOjZ9).
 
