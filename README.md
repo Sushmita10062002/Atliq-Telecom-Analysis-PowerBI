@@ -16,3 +16,10 @@ Imagine yourself as Peter Pandey and perform the following task:
 1. Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has minimal idea about dashboarding. Hence, you need to represent the insights in a much better way.
 2. The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
 3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+
+
+---
+You can download the Power BI report from this repository to view detailed visualizations and insights.
+Please note that to view the Power BI report, you need to have Power BI Desktop installed.
+Alternatively, you can access the live version of the Power BI report [here](https://www.novypro.com/project/atliqo-telecom-analysis-2).
+
