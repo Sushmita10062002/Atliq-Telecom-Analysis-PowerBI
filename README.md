@@ -1,4 +1,7 @@
 # Atliq Telecom Analysis PowerBI
+
+![topic](https://github.com/Sushmita10062002/Atliq-Telecom-Analysis-PowerBI/blob/main/images/topic.png)
+
 This Project is done as the part of codebasics resume [Challenge 3](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
 ## Problem Statement
