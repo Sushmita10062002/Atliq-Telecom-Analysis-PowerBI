@@ -1,4 +1,4 @@
-# Atliq Telecom Analysis PowerBI
+# Atliqo Telecom Analysis PowerBI
 
 ![topic](https://github.com/Sushmita10062002/Atliq-Telecom-Analysis-PowerBI/blob/main/images/topic.png)
 
